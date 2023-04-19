@@ -21,9 +21,8 @@ float: right;
 
 
 
-/*main{*/
-/*display: flex;*/
-/*}*/
+main{
+display: flex;}
 img{
     max-width: 100%;
     height: auto;
@@ -36,3 +35,8 @@ img{
 /*    position: relative;*/
 /*    bottom: 0;*/
 /*}*/
+
+footer p {
+    text-align: center;
+}
+    
